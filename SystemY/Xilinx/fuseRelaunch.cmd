@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/roland/SystemY/decoder_isim_beh.exe" -prj "/home/roland/SystemY/decoder_beh.prj" "work.decoder" 

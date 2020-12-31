@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "A/V connectors")(type KiCad)(uri /Users/roland/Documents/s1clone/mod_conn_av/w_conn_av.pretty)(options "")(descr ""))
+)

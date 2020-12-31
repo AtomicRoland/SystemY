@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=/home/roland/SystemY/impact.xsl
+OUTFILE=/home/roland/SystemY/impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=/home/roland/SystemY
+LICENSE=iMPACT
+USER_INFO=iMPACT
